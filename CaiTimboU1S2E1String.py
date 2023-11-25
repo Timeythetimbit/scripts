@@ -1,0 +1,12 @@
+Oneword = "One"
+Onesentence = "Bonjour comme ca va?"
+Multiplesentence = "I am Timbo and I have almost finished my Career course. In the course, I have discovered more about the influences my strengths, interests, values, and skills have on my future plan. This gives me some opportunities that I could choose from, for example, I could be an athlete since I love playing sports. Another opportunity for me is to become an engineer in space science or a pharmacist. I want to become someone I looked up to, he is a pharmacist at a supermarket. His transferable skills were really impressive as he is very strong when arguing and is not afraid of communicating. He is also very kind and considerate when it comes to patients’ needs. As an example, he made blister packs for the elderly which are packs that label when you should take the pills. This really motivates me to become a pharmacist to tend to people’s needs and covers all of my must-haves and some of my nice-to-haves. Though some of my transferable skills need to improve, for example, my communication skill requires improvement so that I don’t feel afraid or nervous to talk to others. My strongest transferable skill at the moment is problem-solving and critical thinking I have much experience in dealing with issues and situation that requires problem-solving and critical thinking. My plan to achieve my goal is to get a high average grade throughout high school and apply to the University of Toronto’s PharmD program. While trying to get a scholarship from the Chinese Pharmacy Association that gives $5,000 a year to a student that has a 95% average. To accomplish this I had to learn about healthy strategies to maintain a life/school/work balance, which had influenced my life so much that I could no longer suffer when doing work. I predict that future work in grade ten will no longer make me suffer and give me anxiety. Overall, I think that my plan for my first year after high school is very well done and though there are small changes that could be made it is a plan that I could go with. This also can go for my budget and expense after high school as I am confident that my expense can be cancelled out with my income and careful budgeting. This course has given me information that I could use to plan my future, I am glad that I got to use this opportunity to plan my life and future. Thank you.      "
+
+print(Oneword.upper)
+
+print(Onesentence.title())
+
+print(Multiplesentence.replace("a", "r"))
+
+
+
